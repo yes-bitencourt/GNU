@@ -53,3 +53,5 @@ ls -i //Listar o número de inode dos arquivos
 fdisk //Listar os discos e as partições dos sistema
 
 mount (dispositivo) (p.de montagem) //Monta uma partição em um ponto de montagem qualquer 
+
+cat /proc/meminfo //Mostra detalhes sobre a quantidade de dados
